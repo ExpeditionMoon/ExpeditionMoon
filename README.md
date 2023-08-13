@@ -1,6 +1,18 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:540986,100:050527&text=Welcome%20Expedition-To-The-Moon%20GitHub%20🌕&fontColor=d6ace6&fontSize=35&fontAlignY=50&fontAlign=50&height=160)
+<div align="right">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Expedition-To-The-Moon&show_icons=true&theme=solarized-light)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FExpedition-To-The-Moon&count_bg=%23B58900&title_bg=%23F2F4CC&icon=&icon_color=%238E8C8A&title=%F0%9F%91%A3&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
+
+![header](https://capsule-render.vercel.app/api?type=transparent&text=🌕Welcome%20Expedition-To-The-Moon's%20GitHub%20👩🏻‍🚀&fontColor=859900&fontSize=35&fontAlignY=50&fontAlign=50&height=160)
+
+<div align="center">
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Expedition-To-The-Moon&show_icons=true&theme=solarized-light)
+
+</div>
+
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Expedition-To-The-Moon&layout=compact&)] -->
 
 <!--
