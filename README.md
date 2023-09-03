@@ -7,12 +7,36 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=🌕Welcome%20Expedition-To-The-Moon's%20GitHub%20👩🏻‍🚀&fontColor=859900&fontSize=35&fontAlignY=50&fontAlign=50&height=160)
 
+---
+## ✨ **Tech Stacks**
+
+ ☑️ Back-end
+ 
+  ![Java](https://img.shields.io/badge/java-%23007396.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  
+  ☑️ Front-end
+  
+  ![JavaScript](https://img.shields.io/badge/javascript-%23C2A633.svg?style=for-the-badge&logo=javascript&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![SASS](https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+	![React](https://img.shields.io/badge/react-%2329B2FE.svg?style=for-the-badge&logo=react&logoColor=white)
+ 	![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+  
+  ☑️ Etc
+  
+  ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+---
+
 <div align="center">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Expedition-To-The-Moon&show_icons=true&theme=solarized-light)
-
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-
+  
 </div>
 
 
