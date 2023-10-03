@@ -40,8 +40,6 @@
   
 </div>
 
-  	![SASS](https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-   	![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Expedition-To-The-Moon&layout=compact&)] -->
 
