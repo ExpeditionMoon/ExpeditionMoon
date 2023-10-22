@@ -33,7 +33,7 @@
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ##
-
+<!--
 <div align="center">
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Expedition-To-The-Moon&show_icons=true&theme=solarized-light)
