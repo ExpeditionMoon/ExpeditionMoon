@@ -33,6 +33,7 @@
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ##
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Expedition-To-The-Moon&layout=compact&)
 <!--
 <div align="center">
   
@@ -41,7 +42,6 @@
 </div>
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Expedition-To-The-Moon&layout=compact&)] -->
 
 <!--
 **Expedition-To-The-Moon/Expedition-To-The-Moon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
