@@ -33,7 +33,23 @@
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ##
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ExpeditionMoon&layout=compact&)
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center"><h3>Top Langs</h3></td>
+      <td align="center"><h3>GitHub Stats</h3></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExpeditionMoon&hide_title=true&layout=compact" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=ExpeditionMoon&hide_title=true&rank_icon=github&ring_color=859900" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 <!--
 <div align="center">
   
