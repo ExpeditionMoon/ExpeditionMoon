@@ -56,14 +56,14 @@
  <!-- <img src="https://img.shields.io/badge/Fused%20Location-6D8F71?style=flat-square" />  -->
 </p>
 
-### 🧩 **Architecture**
+> ### 🧩 **Architecture**
 <p> 
  <img src="https://img.shields.io/badge/Clean%20Architecture-424242?style=flat-square" /> 
  <img src="https://img.shields.io/badge/MVVM-7C4D8B?style=flat-square" /> 
  <!-- <img src="https://img.shields.io/badge/MVI-7C4D8B?style=flat-square" />  -->
 </p>
 
-### 🔌 **Dependency Injection**
+> ### 🔌 **Dependency Injection**
 <p> 
  <img src="https://img.shields.io/badge/Hilt-6D6E71?style=flat-square" /> 
  <!-- <img src="https://img.shields.io/badge/Manual%20DI-6D6E71?style=flat-square" />  -->
